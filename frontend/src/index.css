@@ -1,0 +1,18 @@
+.chat {
+  width: 100%;
+}
+
+.error {
+  width: 100%;
+  text-align: center;
+  background: #fff;
+}
+
+.typing {
+  padding: 0.4rem;
+  background: blue;
+  color: #fff;
+  border-radius: 25px;
+  transform: translateY(-2rem) !important;
+  font-family: Arial, Helvetica, sans-serif;
+}

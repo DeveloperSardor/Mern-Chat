@@ -1,0 +1,24 @@
+
+
+
+.app{
+  min-height: 100vh;
+  display: flex;
+  background-image: url('../images/chat_back.webp');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  color: black;
+}
+
+::-webkit-scrollbar{
+  width: 0px;
+}
+
+::-webkit-scrollbar-thumb{
+  background-color: rgba(136, 136, 136, 0.281);
+}
+
+::-webkit-scrollbar-thumb:hover{
+background: #555;
+}
